@@ -1,0 +1,32 @@
+Version LOG :
+
+- v0.1 -> v0.3 : Old Beta/Working version
+- v0.4 : First Realase
+  - Full command chat to setup your settings
+- v0.5 : Menu refont
+  - Removed all the chat commands and switch to on/off button menu
+    - v0.5.1 : 
+      - Fix an ui issue (https://github.com/Polfy/IsleWaddon/commit/dab86a258fcf089503210dc3a420ba8d4c63afbc)
+    - v0.5.2 :
+      - Remake the local storage
+      - Version now show as wanted
+      - Removed Map oppacity feature
+    - v0.5.3 :
+      - Menu code cleaning
+    - v0.5.4 :
+      - Add Combat Log color + small msg fix
+    - v0.5.5 :
+      - Menu/Button menu remake for the eyes
+- v0.6 : Code refont
+  - Refont the code to be easier to edit/work
+  - Small bug fix
+- v0.7 : Fully disable Map/Combat log if you don't use it to reduce some fps drop
+  - Polish menu ui/code
+  - Continue and finish code polish
+  - Small fix (works sometimes) for EnterGame msg (login reward/mail)
+    - v0.7.1 :
+      - Add spell type on rune
+- v0.8 : Add Halloween Boss Timer
+- v0.9 : Fix getScript for IWD v0.3.3
+- v0.10 : Implement quality border / /w -> @ / Squash timer fix / some fixes
+- v0.11 : Implement lock option
